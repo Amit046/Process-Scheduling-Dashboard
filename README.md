@@ -2,8 +2,6 @@
 
 A **desktop-based process scheduling simulator** built with Python and PyQt5. This simulator helps visualize and understand how CPU scheduling algorithms work using real-time Gantt charts and statistical outputs.
 
-![Screenshot](screenshot.png)
-
 ---
 
 
