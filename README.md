@@ -29,11 +29,6 @@ A **desktop-based process scheduling simulator** built with Python and PyQt5. Th
 ---
 
 ## 🚀 How to Run
-
-### Clone the repository:
-
-git clone https://github.com/Amit046/Process-Simulator-by-python.git
-cd Process-Simulator-by-python
 # Install dependencies:
 pip install -r requirements.txt
 Or individually:
